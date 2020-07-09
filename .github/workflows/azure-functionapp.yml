@@ -4,7 +4,7 @@ on:
       - master
 
 env:
-  ResourceGroup: wbmaybe-encrypt-dev
+  ResourceGroup: wbmaybe-lets-encrypt-dev
 jobs:
   build:
     runs-on: ubuntu-latest
